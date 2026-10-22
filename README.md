@@ -1,6 +1,7 @@
 
 # Página Institucional — E.E.S.T. N.º 1 de Monte Hermoso
 
+
 Sitio web institucional desarrollado como proyecto educativo por estudiantes de 6.º año de la orientación Programación, durante el ciclo lectivo 2026.
 
 El objetivo es centralizar información de interés para la comunidad educativa mediante una interfaz accesible, organizada y adaptable a distintos dispositivos.
