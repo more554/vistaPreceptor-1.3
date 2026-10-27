@@ -218,6 +218,6 @@ function filtrarHorarios() {
         botonDescargar.hidden = true;
         mensaje.textContent = "No se encontró un horario para el curso seleccionado.";
     }
-            anio.addEventListener("change", actualizarSelectores);
- cursosBtn.addEventListener("click", filtrarHorarios);
+       anio.addEventListener("change", actualizarSelectores);
+       cursosBtn.addEventListener("click", filtrarHorarios);
 
