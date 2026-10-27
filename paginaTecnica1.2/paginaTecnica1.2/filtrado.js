@@ -220,4 +220,4 @@ function filtrarHorarios() {
     }
             anio.addEventListener("change", actualizarSelectores);
  cursosBtn.addEventListener("click", filtrarHorarios);
-}
+
