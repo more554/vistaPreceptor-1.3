@@ -1,5 +1,4 @@
 
-<script>
 const campoBusqueda = document.getElementById("filtro-alumnos");
 const selectorAnioProfesores = document.getElementById("filtro-anio-profesores");
 const botonBuscar = document.getElementById("boton-buscar");
