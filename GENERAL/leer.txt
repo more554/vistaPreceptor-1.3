@@ -1,0 +1,4 @@
+se tiene que corregir css y falta agregar detalles 
+y seperar el JavaScript del html para organizacion 
+
+ 
