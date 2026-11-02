@@ -2,9 +2,9 @@
 # Página Institucional — E.E.S.T. N.º 1 de Monte Hermoso
 
 
-Sitio web institucional desarrollado como proyecto educativo por estudiantes de 6.º año de la orientación Programación, durante el ciclo lectivo 2026.
+Sitio web institucional desarrollado como proyecto final por un grupo de estudiantes de 6.º año de la orientación Programación, durante el ciclo lectivo 2026.
 
-El objetivo es centralizar información de interés para la comunidad educativa mediante una interfaz accesible, organizada y adaptable a distintos dispositivos.
+El objetivo es centralizar información de interés para la comunidad educativa mediante una interfaz accesible y  organizada 
 
 ## Objetivos del proyecto
 
@@ -12,7 +12,7 @@ El objetivo es centralizar información de interés para la comunidad educativa 
 - Organizar listados y consultas para docentes y preceptores.
 - Permitir la consulta de horarios escolares por año, división y modalidad.
 - Integrar un calendario con eventos y fechas relevantes.
-- Aplicar conocimientos de desarrollo web en un proyecto práctico.
+- Aplicar conocimientos de desarrollo web en un proyecto práctico y funcional .
 
 ## Funcionalidades
 
@@ -39,7 +39,9 @@ El objetivo es centralizar información de interés para la comunidad educativa 
 - **CSS3:** estilos, diseño visual, distribución de elementos y adaptación de la interfaz.
 - **JavaScript:** interacción con los controles, filtros, búsqueda y selección de horarios.
 - **Google Calendar:** integración del calendario institucional.
-nuevos
+- **Canva:** Borrador y esquema visual de la Pagina Web
+- **GitHub:** Gestion del proyecto
+   
 ## Estructura del proyecto
 
 
@@ -65,15 +67,23 @@ Las funcionalidades, los estilos y la organización del código pueden cambiar d
 
 ## Próximas mejoras
 
-- Completar y verificar los horarios de todos los cursos.
-- Incorporar los datos completos del personal docente.
+- Implementar mas funcionalidades utiles para el personal de la E.E.S.T N1 
 - Mejorar la adaptación a dispositivos móviles.
-- Mejorar la accesibilidad y la navegación.
+
 
 
 ## Autoría
 
-Proyecto educativo realizado por estudiantes de 6.º año de Programación de la E.E.S.T. N.º 1 de Monte Hermoso.
+Proyecto educativo realizado por estudiantes de 6.º año 2026 de Programación de la E.E.S.T. N.º 1 de Monte Hermoso.
 
-**Ciclo lectivo:** 2026
+## Desarolladores
+
+-Barbara Vidal 
+-Felipe Gallego
+-Morena Rossi
+-Francisco Sacarino 
+
+## Docentes
+
+-Sabrina Roa 
 
