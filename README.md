@@ -57,30 +57,6 @@ nuevos
 └── README.md
 ```
 
-## Instalación y ejecución
-
-1. Clonar el repositorio:
-
-   ```bash
-   git clone URL_DEL_REPOSITORIO
-   ```
-
-2. Entrar en la carpeta del proyecto:
-
-   ```bash
-   cd NOMBRE_DEL_REPOSITORIO
-   ```
-
-3. Abrir `index.html` en un navegador o ejecutar un servidor local desde la carpeta del proyecto.
-
-   Por ejemplo, si Python está instalado:
-
-   ```bash
-   python3 -m http.server 8080
-   ```
-
-   Después, ingresar a `http://localhost:8080`.
-
 ## Estado del proyecto
 
 **En desarrollo.**
